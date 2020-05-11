@@ -13,7 +13,6 @@ setup(
 	description='Cloud Enum Project',
 	long_description=long_description,
 	url='https://github.com/StormCTF/cloud_enum',
-	packages=find_packages(where='src'),
 	packages=setuptools.find_packages(),
 	python_requires='>=3.4'
 )
